@@ -1,0 +1,547 @@
+
+api_key = 8e1208fbdf2ceac4824859264e3f4c9c3cad69062dfc3484
+#########################################
+{
+  "siren": "443061841",
+  "siren_formate": "443 061 841",
+  "nom_entreprise": "GOOGLE FRANCE",
+  "personne_morale": true,
+  "denomination": "GOOGLE FRANCE",
+  "nom": null,
+  "prenom": null,
+  "sexe": null,
+  "code_naf": "70.10Z",
+  "libelle_code_naf": "Activités des sièges sociaux",
+  "domaine_activite": "Activités des sièges sociaux ; conseil de gestion",
+  "conventions_collectives": [
+    {
+      "nom": "Convention collective nationale applicable au personnel des bureaux d'études techniques des cabinets d'ingénieurs-conseils et des sociétés de conseils(BET SYNTEC)",
+      "idcc": 1486,
+      "confirmee": true
+    }
+  ],
+  "date_creation": "2002-05-16",
+  "date_creation_formate": "16/05/2002",
+  "entreprise_cessee": true,
+  "date_cessation": "2002-05-16",
+  "entreprise_employeuse": true,
+  "societe_a_mission": true,
+  "categorie_juridique": "5499",
+  "forme_juridique": "Société à responsabilité limitée (SARL)",
+  "effectif": "Entre 500 et 999 salariés",
+  "effectif_min": 500,
+  "effectif_max": 999,
+  "tranche_effectif": "41",
+  "annee_effectif": 2017,
+  "capital": 464884017,
+  "statut_rcs": "Inscrit",
+  "siege": {
+    "siret": "44306184100047",
+    "siret_formate": "443 061 841 00047",
+    "diffusion_partielle": true,
+    "nic": "00047",
+    "code_postal": "75009",
+    "ville": "PARIS 9",
+    "pays": "France",
+    "code_pays": "FR",
+    "latitude": 48.876947,
+    "longitude": 2.329981,
+    "etablissement_cesse": true,
+    "siege": true,
+    "etablissement_employeur": true,
+    "effectif": "Entre 500 et 999 salariés",
+    "effectif_min": 500,
+    "effectif_max": 999,
+    "tranche_effectif": "41",
+    "annee_effectif": 2017,
+    "code_naf": "70.10Z",
+    "libelle_code_naf": "Activités des sièges sociaux",
+    "date_de_creation": "2011-05-12T22:00:00.000Z",
+    "numero_voie": 8,
+    "indice_repetition": null,
+    "type_voie": "RUE",
+    "libelle_voie": "DE LONDRES",
+    "complement_adresse": null,
+    "adresse_ligne_1": "8 RUE DE LONDRES",
+    "adresse_ligne_2": null,
+    "date_cessation": "2014-05-12",
+    "enseigne": "FROOGLE",
+    "nom_commercial": "Froogle",
+    "domiciliation": {
+      "nom": "WORK & SHARE",
+      "siren": "828053546"
+    },
+    "predecesseurs": [
+      {
+        "siret": "44306184100047",
+        "date": "1993-20-02",
+        "transfert_siege": false,
+        "continuite_economique": true
+      }
+    ],
+    "successeurs": [
+      {
+        "siret": "44306184100047",
+        "date": "1993-20-02",
+        "transfert_siege": false,
+        "continuite_economique": true
+      }
+    ]
+  },
+  "diffusable": true,
+  "sigle": null,
+  "objet_social": "Fourniture de services et/ou conseils relatifs aux logiciels au réseau internet aux réseaux télématiques ou en ligne notamment L'intermediation en matière de vente de publicité en ligne la promotion sous toutes ses formes de la publicité en ligne la promotion directe de produits et services et la mise en oeuvre de centres de traitement de l'information",
+  "capital_formate": "464 884 017,00 €",
+  "capital_actuel_si_variable": null,
+  "devise_capital": "Euros",
+  "numero_rcs": "464884017 R.C.S. Paris",
+  "date_cloture_exercice": null,
+  "date_cloture_exercice_exceptionnelle": null,
+  "date_cloture_exercice_exceptionnelle_formate": null,
+  "prochaine_date_cloture_exercice": null,
+  "prochaine_date_cloture_exercice_formate": null,
+  "economie_sociale_solidaire": true,
+  "duree_personne_morale": null,
+  "dernier_traitement": "2020-07-09",
+  "derniere_mise_a_jour_sirene": "2020-08-13",
+  "derniere_mise_a_jour_rcs": "2020-06-25",
+  "greffe": "Paris",
+  "code_greffe": "7501",
+  "date_immatriculation_rcs": null,
+  "date_premiere_immatriculation_rcs": null,
+  "date_debut_activite": "2002-08-14",
+  "date_debut_premiere_activite": null,
+  "date_radiation_rcs": null,
+  "numero_tva_intracommunautaire": "FR64443061841",
+  "validite_tva_intracommunautaire": true,
+  "associe_unique": true,
+  "etablissements": [
+    {
+      "siret": "44306184100047",
+      "siret_formate": "443 061 841 00047",
+      "diffusion_partielle": true,
+      "nic": "00047",
+      "code_postal": "75009",
+      "ville": "PARIS 9",
+      "pays": "France",
+      "code_pays": "FR",
+      "latitude": 48.876947,
+      "longitude": 2.329981,
+      "etablissement_cesse": true,
+      "siege": true,
+      "etablissement_employeur": true,
+      "effectif": "Entre 500 et 999 salariés",
+      "effectif_min": 500,
+      "effectif_max": 999,
+      "tranche_effectif": "41",
+      "annee_effectif": 2017,
+      "code_naf": "70.10Z",
+      "libelle_code_naf": "Activités des sièges sociaux",
+      "date_de_creation": "2011-05-12T22:00:00.000Z",
+      "numero_voie": 8,
+      "indice_repetition": null,
+      "type_voie": "RUE",
+      "libelle_voie": "DE LONDRES",
+      "complement_adresse": null,
+      "adresse_ligne_1": "8 RUE DE LONDRES",
+      "adresse_ligne_2": null,
+      "date_cessation": "2014-05-12",
+      "enseigne": "FROOGLE",
+      "nom_commercial": "Froogle",
+      "domiciliation": {
+        "nom": "WORK & SHARE",
+        "siren": "828053546"
+      },
+      "predecesseurs": [
+        {
+          "siret": "44306184100047",
+          "date": "1993-20-02",
+          "transfert_siege": false,
+          "continuite_economique": true
+        }
+      ],
+      "successeurs": [
+        {
+          "siret": "44306184100047",
+          "date": "1993-20-02",
+          "transfert_siege": false,
+          "continuite_economique": true
+        }
+      ]
+    }
+  ],
+  "finances": [
+    {
+      "annee": 2018,
+      "date_de_cloture_exercice": "2018-12-31",
+      "duree_exercice": 12,
+      "chiffre_affaires": 411016329,
+      "resultat": 29327087,
+      "effectif": 723,
+      "marge_brute": 0,
+      "excedent_brut_exploitation": 0,
+      "resultat_exploitation": 0,
+      "taux_croissance_chiffre_affaires": 0,
+      "taux_marge_brute": 0,
+      "taux_marge_EBITDA": 0,
+      "taux_marge_operationnelle": 0,
+      "BFR": 0,
+      "BFR_exploitation": 0,
+      "BFR_hors_exploitation": 0,
+      "BFR_jours_CA": 0,
+      "BFR_exploitation_jours_CA": 0,
+      "BFR_hors_exploitation_jours_CA": 0,
+      "delai_paiement_clients_jours": 0,
+      "delai_paiement_fournisseurs_jours": 0,
+      "ratio_stock_CA_jours": 0,
+      "capacite_autofinancement": 0,
+      "capacite_autofinancement_CA": 0,
+      "fonds_roulement_net_global": 0,
+      "couverture_BFR": 0,
+      "tresorerie": 0,
+      "dettes_financieres": 0,
+      "capacite_remboursement": 0,
+      "ratio_endettement": 0,
+      "autonomie_financiere": 0,
+      "taux_levier": 0,
+      "etat_dettes_1_an_au_plus": 0,
+      "liquidite_generale": 0,
+      "couverture_dettes": 0,
+      "marge_nette": 0,
+      "rentabilite_fonds_propres": 0,
+      "rentabilite_economique": 0,
+      "valeur_ajoutee": 0,
+      "valeur_ajoutee_CA": 0,
+      "salaires_charges_sociales": 0,
+      "salaires_CA": 0,
+      "impots_taxes": 0
+    }
+  ],
+  "representants": [
+    {
+      "qualite": "Gérant",
+      "personne_morale": false,
+      "date_prise_de_poste": "2017-08-03",
+      "sexe": "M",
+      "nom": "Yi",
+      "prenom": "Kenneth H.",
+      "prenom_usuel": "Kenneth",
+      "nom_complet": "Kenneth H. Yi",
+      "date_de_naissance": "1970-01-06",
+      "date_de_naissance_formate": "06/01/1970",
+      "age": 50,
+      "nationalite": "Américaine (Etats Unis)",
+      "code_nationalite": "US",
+      "ville_de_naissance": "Séoul",
+      "pays_de_naissance": "COREE DU SUD",
+      "code_pays_de_naissance": "KR",
+      "adresse_ligne_1": "1600 Amphitheatre Parkway Mountain View CA 94043",
+      "adresse_ligne_2": null,
+      "adresse_ligne_3": null,
+      "code_postal": null,
+      "ville": null,
+      "pays": "Etats-Unis",
+      "code_pays": "US"
+    }
+  ],
+  "beneficiaires_effectifs": [
+    {
+      "date_greffe": "2021-01-06",
+      "type": "BE_SOC",
+      "nom": "McCourt JR",
+      "nom_usage": null,
+      "prenom": "Frank",
+      "pseudonyme": null,
+      "date_de_naissance_formatee": "08/1953",
+      "date_de_naissance_complete_formatee": "14/08/1953",
+      "nationalite": "Américaine (Etats Unis)",
+      "code_nationalite": "US",
+      "ville_de_naissance": "Massachusetts",
+      "pays_de_naissance": "ETATS-UNIS D'AMERIQUE",
+      "code_pays_de_naissance": "US",
+      "adresse_ligne_1": null,
+      "adresse_ligne_2": "888 Seventh Avenue 43rd Floor New York (Etat de New York)",
+      "adresse_ligne_3": null,
+      "code_postal": null,
+      "ville": null,
+      "pays": "ETATS-UNIS D'AMERIQUE",
+      "code_pays": "US",
+      "pourcentage_parts": 0,
+      "pourcentage_parts_directes": 0,
+      "pourcentage_parts_indirectes": 0,
+      "pourcentage_parts_vocation_titulaire": 0,
+      "details_parts_directes": {
+        "pourcentage_pleine_propriete": 0,
+        "pourcentage_nue_propriete": 0
+      },
+      "details_parts_indirectes": {
+        "pourcentage_en_indivision": 0,
+        "pourcentage_en_personne_morale": 0,
+        "details_en_indivision": {
+          "pourcentage_pleine_propriete": 0,
+          "pourcentage_nue_propriete": 0
+        },
+        "details_en_personne_morale": {
+          "pourcentage_pleine_propriete": 0,
+          "pourcentage_nue_propriete": 0
+        }
+      },
+      "details_parts_vocation_titulaire": {
+        "pourcentage_directes": 0,
+        "pourcentage_indirectes": 0,
+        "details_directes": {
+          "pourcentage_pleine_propriete": 0,
+          "pourcentage_nue_propriete": 0
+        },
+        "details_indirectes": {
+          "pourcentage_en_indivision": 0,
+          "pourcentage_en_personne_morale": 0,
+          "details_en_indivision": {
+            "pourcentage_pleine_propriete": 0,
+            "pourcentage_nue_propriete": 0
+          },
+          "details_en_personne_morale": {
+            "pourcentage_pleine_propriete": 0,
+            "pourcentage_nue_propriete": 0
+          }
+        }
+      },
+      "pourcentage_votes": 0,
+      "pourcentage_votes_directs": 0,
+      "pourcentage_votes_indirect": 0,
+      "details_votes_directs": {
+        "pourcentage_pleine_propriete": 0,
+        "pourcentage_nue_propriete": 0,
+        "pourcentage_usufruit": 0
+      },
+      "details_votes_indirects": {
+        "pourcentage_en_indivision": 0,
+        "pourcentage_en_personne_morale": 0,
+        "details_en_indivision": {
+          "pourcentage_pleine_propriete": 0,
+          "pourcentage_nue_propriete": 0,
+          "pourcentage_usufruit": 0
+        },
+        "details_en_personne_morale": {
+          "pourcentage_pleine_propriete": 0,
+          "pourcentage_nue_propriete": 0,
+          "pourcentage_usufruit": 0
+        }
+      },
+      "details_societe_de_gestion": {
+        "nom": "string",
+        "siren": "string",
+        "greffe": "string",
+        "adresse": "string",
+        "code_postal": "string",
+        "ville": "string"
+      },
+      "detention_pouvoir_decision_ag": true,
+      "detention_pouvoir_nom_membre_conseil_administration": true,
+      "detention_autres_moyens_controle": true,
+      "beneficiaire_representant_legal": true,
+      "representant_legal_placement_sans_gestion_delegation": true
+    }
+  ],
+  "depots_actes": [
+    {
+      "date_depot": "2020-04-07",
+      "date_depot_formate": "07/04/2020",
+      "disponible": true,
+      "nom_fichier_pdf": "GOOGLE FRANCE - Actes du 07-04-2020.pdf",
+      "token": "QTQ0MzA2MTg0MTIwMjAwNDA3RMOpY2lzaW9uKHMpIGRlIGwnYXNzb2Npw6kgdW5pcXVl",
+      "actes": [
+        {
+          "type": "Décision(s) de l'associé unique",
+          "decision": "Augmentation du capital social",
+          "date_acte": "2020-03-04",
+          "date_acte_formate": "04/03/2020"
+        }
+      ]
+    }
+  ],
+  "comptes": [
+    {
+      "date_depot": "2020-07-16",
+      "date_depot_formate": "16/07/2020",
+      "date_cloture": "2019-12-31",
+      "annee_cloture": 2019,
+      "confidentialite": true,
+      "confidentialite_compte_de_resultat": true,
+      "disponible": true,
+      "nom_fichier_pdf": "GOOGLE FRANCE - Comptes 2019.pdf",
+      "token": "QzQ0MzA2MTg0MTIwMjAwNzE2",
+      "disponible_xlsx": true,
+      "nom_fichier_xlsx": "GOOGLE FRANCE - Comptes 2019.xlsx",
+      "token_xlsx": "ASQSMAA2MTg8MTIwMjAwNz2s"
+    }
+  ],
+  "publications_bodacc": [
+    {
+      "numero_parution": "20200075",
+      "date": "2020-04-16T00:00:00.000Z",
+      "numero_annonce": "670",
+      "bodacc": "B",
+      "type": "Modification",
+      "greffe": "Paris"
+    }
+  ],
+  "procedures_collectives": [
+    {
+      "type": "Redressement judiciaire",
+      "date_debut": "2020-04-16T00:00:00.000Z",
+      "date_fin": "2020-08-27T00:00:00.000Z",
+      "publications_bodacc": [
+        {
+          "numero_parution": "20200075",
+          "date": "2020-04-16T00:00:00.000Z",
+          "numero_annonce": "670",
+          "bodacc": "B",
+          "type": "Modification",
+          "greffe": "Paris"
+        }
+      ]
+    }
+  ],
+  "procedure_collective_existe": true,
+  "procedure_collective_en_cours": true,
+  "derniers_statuts": {
+    "date_depot": "2020-04-07",
+    "date_depot_formate": "07/04/2020",
+    "disponible": true,
+    "nom_fichier_pdf": "GOOGLE FRANCE - Actes du 07-04-2020.pdf",
+    "token": "QTQ0MzA2MTg0MTIwMjAwNDA3RMOpY2lzaW9uKHMpIGRlIGwnYXNzb2Npw6kgdW5pcXVl",
+    "type": "Statuts mis à jour",
+    "decision": null,
+    "date_acte": "2020-03-04",
+    "date_acte_formate": "04/03/2020"
+  },
+  "extrait_immatriculation": {
+    "token": "SzQ0MzA2MTg0MQ"
+  },
+  "rnm": {
+    "date_immatriculation": "2021-02-16T00:00:00.000Z",
+    "date_radiation": null,
+    "date_debut_activite": "2021-01-01T00:00:00.000Z",
+    "date_cessation_activite": null,
+    "chambre_des_metiers": "TARN-ET-GARONNE",
+    "qualification": "ARTISAN",
+    "derniere_mise_a_jour": "2021-02-22T00:00:00.000Z"
+  },
+  "marques": [
+    {
+      "numero": "FR7103728",
+      "date_enregistrement": "2008-12-04T00:00:00.000Z",
+      "date_expiration": "2018-12-04T00:00:00.000Z",
+      "lieu_enregistrement": "92 INPI - Dépôt électronique",
+      "statut": "Marque enregistrée",
+      "texte": "Google",
+      "type": "Figurative",
+      "lien_image": "https://data.inpi.fr/image/marques/FRXXXXXXXX",
+      "descriptions": [
+        "Demande d’extension : Polynésie française"
+      ],
+      "classes": [
+        {
+          "code": 35,
+          "description": "Publicité ;  gestion des affaires commerciales ;  administration commerciale ;  travaux de bureau."
+        }
+      ],
+      "deposant": {
+        "siren": "string",
+        "entite_legale": "string",
+        "nom": "string",
+        "batiment": "string",
+        "rue": "string",
+        "ville": "string",
+        "boite_postale": "string",
+        "code_postal": "string",
+        "code_pays": "string"
+      },
+      "mandataire": {
+        "siren": "string",
+        "entite_legale": "string",
+        "nom": "string",
+        "batiment": "string",
+        "rue": "string",
+        "ville": "string",
+        "boite_postale": "string",
+        "code_postal": "string",
+        "code_pays": "string"
+      },
+      "evenements": [
+        {
+          "type": "Publication",
+          "identifiant_evenement": "string",
+          "reference": "string",
+          "date": "2008-12-04T00:00:00.000Z",
+          "numero_bopi": "2008-12",
+          "date_bopi": "2008-12-04T00:00:00.000Z",
+          "beneficiaire": "string"
+        }
+      ]
+    }
+  ],
+  "association": {
+    "is_waldec": 1,
+    "id_association": "W142005389",
+    "id_ex_association": "0142004593",
+    "denomination": "COMITÉ RÉGIONAL DE BRIDGE DE BASSE NORMANDIE",
+    "siret": "95037097300014",
+    "numero_rup": null,
+    "objet": "Grouper tous les clubs et joueurs de bridge de Basse-Normandie de soutenir leurs efforts et de développer sous toutes ses formes la pratique du jeu de bridge",
+    "objet_social_1": 3589,
+    "categorie_social_1": "Bridge, jeux de cartes, échecs, dames, jeux de société...",
+    "objet_social_2": 0,
+    "categorie_social_2": "Non connue",
+    "date_creation": "1978-09-28",
+    "date_derniere_declaration": "2019-09-18",
+    "date_publication_creation": "1978-10-12",
+    "date_declaration_dissolution": "2019-09-18",
+    "groupement": "Simple",
+    "position_activite": "Active",
+    "nature": "Simplement Declarée",
+    "site_web": null,
+    "telephone": null,
+    "email": null,
+    "adresse_siege": {
+      "code_postal": "14075",
+      "code_insee": "14118",
+      "ville": "Caen  cedex 05",
+      "numero_voie": "115ter",
+      "indice_repetition": null,
+      "type_voie": "BD",
+      "libelle_voie": "Vanier  - La Pierre Heuzé",
+      "complement_adresse": null,
+      "distribution": "_BP 75156",
+      "adresse_ligne_1": "115ter BD Vanier  - La Pierre Heuzé",
+      "adresse_ligne_2": null
+    },
+    "adresse_gestionnaire": {
+      "gestionnaire": null,
+      "code_postal": "14075",
+      "ville": "CAEN",
+      "distribution": null,
+      "adresse_ligne": "115TER  BOULEVARD VANIER  - LA PIERRE",
+      "complement_adresse": null,
+      "indication": null,
+      "pays": "FRANCE"
+    },
+    "observation": "Reprise auto =>  date publication création au JO à vérifier",
+    "code_gestion": "142P",
+    "dirigeant_civilite": "PM",
+    "derniere_maj": "2020-03-18",
+    "publications_joafe": {
+      "numero_parution": "20180024",
+      "date_parution": "2018-06-16",
+      "date_declaration": "2018-06-12",
+      "numero_annonce": 1766,
+      "titre": "ASSOCIATION QUARTIER FOSSES-JEAN",
+      "type": "Création",
+      "prefecture": "Hauts-de-Seine",
+      "objet": "la défense des droits des habitants du quartier auprès éventuellement des bailleurs sociaux ; aide à la gestion des problèmes de voisinage ; superviser le prêt des Lieux Communs de Résidences pour proposer des activités aux jeunes du quartier (jeux, échanges, anniversaires, prêt de livres ou divers) ; l'organisation de rencontres pluriculturelles (apprentissage de l'art culinaire des différentes ethnies qui composent le quartier) ; organisation de goûter et sorties, vide grenier annuel ou semestriel plus couramment brocante ; organisation de rencontres inter-générations retraités qui pourraient apporter une aide aux devoirs pour les enfants (bénévolement)",
+      "site_web": null,
+      "adresse": "9, avenue D'Orgemont, 92700 Colombes"
+    }
+  }
+}

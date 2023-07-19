@@ -1,0 +1,107 @@
+ID = select id where company_id 
+insert into linkedIn table b2b_id = ID
+
+<div tabindex="-1" aria-hidden="false" id="ember58" class="save-to-list-dropdown__content-container artdeco-dropdown__content artdeco-dropdown__content--is-open artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-left artdeco-dropdown__content--placement-bottom ember-view" data-artdeco-is-focused="true"> 
+//////////////////////##################//////////////////////##################//////////////////////##################//////////////////////##################//////////////////////##################//////////////////////##################
+
+          <div id="ember514" class="save-to-list-dropdown-v2__save-to-list-copy align-items-center text-align-center artdeco-dropdown__header ember-view">
+            <span class="save-to-list-dropdown-v2__save-to-list-text t-16 t-black t-bold">
+              Enregistrer dans une liste
+            </span>
+            <button class="button--unstyled save-to-list-dropdown-v2__create-list-cta" aria-label="Cr�er une liste de prospects" type="button">
+              <li-icon aria-hidden="true" type="plus-icon" class="save-to-list-dropdown-v2__create-new-list-icon mr2" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5v2z"></path>
+</svg></li-icon>
+            </button>
+          
+</div>
+
+          <ul role="menu" class="save-to-list-dropdown__content">
+              <div id="ember515" class="save-to-list-dropdown-v2__recent-list-heading p0 t-sans t-black t-bold text-uppercase artdeco-dropdown__header ember-view">
+                Utilis� r�cemment
+              
+</div>
+                <li role="menuitem">
+                  <div id="ember516" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view save-to-list-dropdown__item" tabindex="0"><!---->
+                    <div class="display-flex">
+                      <div class="nowrap-ellipsis">INNOVATION  DEVELOPPEMENT</div>
+                        <div class="save-to-list-dropdown__override-small-text flex-shrink-zero" aria-label="50&nbsp;prospects">
+                          (50)
+                        </div>
+                    </div>
+                  </div>
+                </li>
+
+              <li role="menuitem">
+                <h3 tabindex="-1" id="custom_lists_header_ember517" class="save-to-list-dropdown-v2__heading display-flex">
+                  <div id="ember518" class="save-to-list-dropdown-v2__heading-text p0 t-sans t-black t-bold text-uppercase artdeco-dropdown__header ember-view">
+                    Vos listes personnalis�es
+                  
+</div>
+                </h3>
+
+                <ul role="menu" class="save-to-list-dropdown__no-max-height" aria-labelledby="custom_lists_header_ember517">
+                      <li role="menuitem">
+                        <div id="ember519" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view save-to-list-dropdown__item" data-x--list-dropdown--list-item="" tabindex="0"><!---->
+                          <div class="display-flex">
+                            <div class="nowrap-ellipsis">GFA DU GRAND LUC</div>
+                              <div class="save-to-list-dropdown__override-small-text flex-shrink-zero" aria-label="3&nbsp;prospects">
+                                (3)
+                              </div>
+                          </div>
+                        </div>
+                      </li>
+                      <li role="menuitem">
+                        <div id="ember520" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view save-to-list-dropdown__item" data-x--list-dropdown--list-item="" tabindex="0"><!---->
+                          <div class="display-flex">
+                            <div class="nowrap-ellipsis">INNOVATION  DEVELOPPEMENT</div>
+                              <div class="save-to-list-dropdown__override-small-text flex-shrink-zero" aria-label="50&nbsp;prospects">
+                                (50)
+                              </div>
+                          </div>
+                        </div>
+                      </li>
+                      <li role="menuitem">
+                        <div id="ember521" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view save-to-list-dropdown__item" data-x--list-dropdown--list-item="" tabindex="0"><!---->
+                          <div class="display-flex">
+                            <div class="nowrap-ellipsis">Liste de prospects de Gonzague</div>
+<!---->                          </div>
+                        </div>
+                      </li>
+                      <li role="menuitem">
+                        <div id="ember522" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view save-to-list-dropdown__item" data-x--list-dropdown--list-item="" tabindex="0"><!---->
+                          <div class="display-flex">
+                            <div class="nowrap-ellipsis">prospect havet digital</div>
+                              <div class="save-to-list-dropdown__override-small-text flex-shrink-zero" aria-label="7&nbsp;prospects">
+                                (7)
+                              </div>
+                          </div>
+                        </div>
+                      </li>
+                </ul>
+
+              </li>
+
+<!---->          </ul>
+    
+
+
+
+    ##############################################################################*
+    SELECTORS 
+    profile links == //tr[@class='artdeco-models-table-row ember-view']//td[@class='artdeco-models-table-cell list-people-detail-header__entity ember-view']//div[@class='white-space-nowrap overflow-hidden text-overflow-ellipsis']//a
+    post and speciality == Sans-14px-black-90%
+    
+
+    while is not logged in 
+
+      try :
+        select the first page and enter credentilas
+      except nosuchElement:
+        try:
+          select second page
+        except nosuchElement:
+            select third page
+          :
+
+        
