@@ -204,7 +204,7 @@ for num, departement in enumerate(departements):
     
     big_array = [define_schema(fetch_data(siren),departement) for siren in departement_sirens]
     df = pd.DataFrame(big_array)
-    df.to_excel(f'departement_num_{departement}-B2B.xlsx', index=False)
+    df.to_excel(f'departement_num_{departement}-B2B_2.xlsx', index=True)
     print(f'Departement num {departement} is fetched successfully')
     
     departement_sirens.clear()

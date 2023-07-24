@@ -51,6 +51,7 @@ driver.get('https://www.linkedin.com/sales/search/people?viewAllFilters=true')
 
 df = pd.read_excel('departement_num_62-B2B.xlsx')
 company_names = df['nom_entreprise']
+company__id = df['id']
 
 for company in company_names:
     filter = wait.until(EC.presence_of_element_located((By.XPATH, "/html/body/main/div[1]/div[1]/div/div[2]/form/div/div[4]/fieldset[1]/div/fieldset[2]")))

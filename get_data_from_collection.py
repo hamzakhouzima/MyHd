@@ -64,7 +64,7 @@ profiles = []
 companies_name = []
 for link in companies:
     # company_name = link.text
-    # companies_name.append(company_name)
+    # companies_name.append(company_name)   this contains the company names 
     linkedin_list = link.get_attribute('href')
     prospects_links.append(linkedin_list)
 
@@ -106,7 +106,7 @@ schema = {
     'dateAnnivairsaire': None,
     'socialAccount': None,
     'source': None,
-    # 'company':companies_name
+    #'company':companies_name
 }
 
 df = pd.DataFrame(schema)
