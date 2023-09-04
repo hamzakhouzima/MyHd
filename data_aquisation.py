@@ -29,7 +29,7 @@ max_delay = 10  # Maximum delay in seconds
 delay = random.uniform(min_delay, max_delay)
 
 log_email = 'GHavet@havetdigital.fr'
-log_pass = 'Havetdigital2023!'
+log_pass = ''
 
 website = 'https://www.linkedin.com/'
 path = 'C:/Users/Youcode/Downloads/chromedriver_win32/chromedriver.exe'
